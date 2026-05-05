@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+requests
+torch
+transformers
+pyrebase4
+firebase-admin
+omegaconf
+python-multipart

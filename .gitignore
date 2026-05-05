@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+venv/
+.streamlit/
+firebase-service-account.json
+backend/firebase-service-account.json
+logs/
+*.log
